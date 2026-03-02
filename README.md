@@ -1,8 +1,8 @@
-# Hunt the Ace ♠️
+# Hunt the Ace 
 
 A classic "Three-card Monte" style memory game built for the web. The objective is simple: follow the Ace of Spades as the cards are shuffled and pick the correct card to win points.
 
-## 🚀 Features
+## Features
 
 * **Interactive Gameplay:** Smooth card dealing and flipping animations using CSS transitions.
 * **Dynamic Shuffling:** Randomized card shuffling logic visualized with CSS transforms.
@@ -10,13 +10,13 @@ A classic "Three-card Monte" style memory game built for the web. The objective 
 * **Persistence:** Uses the browser's `localStorage` to save your current round and score, so you can refresh or return later without losing progress.
 * **Responsive Design:** optimized for both desktop and mobile screens.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **JavaScript (ES6+):** Handles game logic, DOM manipulation, and state management.
 * **CSS3:** Uses CSS Grid for layout and Keyframes/Transitions for card animations (`fly-in`, `shuffle`).
 * **HTML5:** Semantic structure for the game interface.
 
-## 🎮 How to Play
+## How to Play
 
 1.  **Start:** Click the **Play Game** button.
 2.  **Watch:** The cards will stack up and shuffle automatically on the screen.
@@ -28,7 +28,7 @@ A classic "Three-card Monte" style memory game built for the web. The objective 
     * **Round 4:** 10 Points
 5.  **Game Over:** The game ends after 4 rounds.
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 HuntTheAceJSGame/
